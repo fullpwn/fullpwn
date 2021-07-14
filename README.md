@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [cydia](https://github.com/fullpwn/cydia)
 
-- 🌱 I’m currently learning **how servers work!**
+- 🌱 I’m currently learning **how servers work.**
 
 - 👯 I’m looking to collaborate on [WiiLink24](https://github.com/WiiLink24)
 
